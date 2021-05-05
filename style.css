@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Times New Roman", sans-serif;
+}
+
+body div:first-child {
+    width: 50%;
+}
+
+.heading {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.small-text {
+    font-size: 0.8rem;
+}
+
+hr {
+    margin-bottom: 2px;
+}
+
+a:link {
+    text-decoration: none;
+}
